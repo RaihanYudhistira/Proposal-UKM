@@ -1,4 +1,4 @@
 ###################
-Database ada didalem
+Database included inside
 ###################
 
